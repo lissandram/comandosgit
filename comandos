@@ -1,8 +1,8 @@
-#Git config
+# Git config
 git config --global user.name "Lissandra M"
 git config --global user.email lissandran@example.com
 
 
 
-###Referências
+### Referências
 https://comandosgit.github.io/
